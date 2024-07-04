@@ -1,0 +1,17 @@
+{
+    "name": "Winter",
+    "description": "A wonderful theme",
+    "version": "1.0.2",
+    "author": "rhunk",
+    "content": {
+        "colors": [{
+                "key": "sigColorTextPrimary",
+                "value": -1
+            },
+            {
+                "key": "actionSheetBackgroundDrawable",
+                "value": -1
+            }
+        ]
+    }
+}

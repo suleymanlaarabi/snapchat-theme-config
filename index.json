@@ -1,0 +1,9 @@
+{
+    "themes": [{
+        "name": "Winter",
+        "author": "rhunk",
+        "description": "Just Winter!",
+        "version": "1.0.2",
+        "filepath": "winter.json"
+    }]
+}
